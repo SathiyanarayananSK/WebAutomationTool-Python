@@ -31,7 +31,7 @@ A Python-based web automation tool built using **Selenium** to automate tasks li
 
 ## 🎥 Demo
 
-[![Watch the video](https://img.youtube.com/vi//0.jpg)]()
+[![Watch the video](https://img.youtube.com/vi/r8lEZt6-tEI/0.jpg)](https://youtu.be/r8lEZt6-tEI)
 
 ---
 
